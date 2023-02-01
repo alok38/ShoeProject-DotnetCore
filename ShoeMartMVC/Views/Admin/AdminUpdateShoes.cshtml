@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "AdminUpdateShoes";
+} 
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">  
+<title>Update</title>
+
+</head>
+<body>
+    <div style="margin: auto;
+             width: 60%;
+             padding: 8px;
+                               }">
+    <h2 style="color:gray;">UpdateShoe</h2>
+    </div>
+     <div style="margin: auto;
+             width: 60%;
+             border: 2px solid green;
+             padding: 8px;
+                               }"> 
+        <form action="/Admin/UpdateShoe/" method="post">
+            <div class="col-12 mb-3">
+            <label for="ShoeId" class="form-label" >ShoeId</label>
+            <input type="text"  class="form-control" id="ShoeId" name="ShoeId" required>
+            </div>
+             <div class="col-12 mb-3">
+            <label for="ShoeName" class="form-label" >ShoeName</label>
+            <input type="text"  class="form-control" id="ShoeName" name="ShoeName" required>
+            </div>
+            <div class="col-12 mb-3">
+            <label for="Price" class="form-label">Price</label>
+            <input type="text" class="form-control" id="Price" name="Price" required>
+          </div>
+         
+            <div class="col-12 mb-3">
+            <label for="Size" class="form-label">Size</label>
+            <input type="text" class="form-control" id="Size" name="Size" required />
+        </div>
+        <div class="col-12 mb-3">
+            <label for="Brand" class="form-label">Brand</label>
+            <input type="text" class="form-control" id="Brand" name="Brand" required />
+        </div>
+        <div class="col-12 mb-3">
+            <label for="ShoeImage" class="form-label">ShoeImage</label>
+            <input type="text" class="form-control" id="ShoeImage" name="ShoeImage" required />
+        </div>
+            <div class="col-4 mb-3">
+          <button type="submit" class="btn btn-success"value="Submit" id="btnsub">Update</button>
+          </div> 
+         </form>
+         <div class="col-4 mb-3">
+              <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("AdminShoesView", "Admin")'">GoBack</button>
+          </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>

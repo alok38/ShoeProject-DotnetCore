@@ -1,0 +1,54 @@
+﻿@model ShoeMartMVC.Models.Customer
+@{
+    ViewBag.Title = "Login";
+}
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+    <div style="margin: auto;
+             width: 40%;
+             padding: 8px;"
+                               }">
+    <h2 style="color:gray">Customer Login</h2>
+    </div>
+        <div style="margin: auto;
+             width: 40%;
+             border: 2px solid green;
+             padding: 8px;"
+                               }">
+        <form action="/Authentication/DoLogin/" method="post">
+            
+            <div class="col-8 mb-3">
+            <label for="EmailId" class="form-label" >EmailId</label>
+            <input type="email" class="form-control" name="EmailId">
+          </div>
+            <div class="col-8 mb-3">
+            <label for="Password" class="form-label">Password</label>
+            <input type="password" class="form-control" name="Password">
+          </div>
+            <div class="col-6 mb-3">
+          <button type="submit" class="btn btn-success"value="Login">Login</button>
+          </div>
+         
+         </form>
+          <div class="col-6 mb-3">
+              <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("RegistrationPage", "Registration")'">Register Customer</button>
+          </div>
+           <div class="col-6 mb-3">
+              <button type="button" class="btn btn-info" onclick="location.href='@Url.Action("AdminLogin", "Authentication")'">Go to Admin Login</button>
+          </div>
+          
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>
+

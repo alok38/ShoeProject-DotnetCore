@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShoeMartMVC
+build_property.RootNamespace = ShoeMartMVC
+build_property.ProjectDir = C:\Users\labuser\Desktop\DOTNET Core\CoreSolution\Shoe\ShoeMartMVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\labuser\Desktop\DOTNET Core\CoreSolution\Shoe\ShoeMartMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminCustomersView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5DdXN0b21lcnNWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminDeleteCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EZWxldGVDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminDeleteReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EZWxldGVSZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminDeleteShoe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EZWxldGVTaG9lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminGetAllCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5HZXRBbGxDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminGetAllReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5HZXRBbGxSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminGetAllShoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5HZXRBbGxTaG9lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminReviewsView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5SZXZpZXdzVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminShoesView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TaG9lc1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminUpdateCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5VcGRhdGVDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminUpdateReviews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5VcGRhdGVSZXZpZXdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Admin/AdminUpdateShoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5VcGRhdGVTaG9lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Authentication/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Cart/BuyNow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxCdXlOb3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Cart/EmptyCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxFbXB0eUNhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Cart/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxWaWV3Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/HomePage/AdminHome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcQWRtaW5Ib21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/HomePage/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVBhZ2VcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Registration/RegistrationPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdHJhdGlvblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Review/GetAllReviewsOfShoe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3XEdldEFsbFJldmlld3NPZlNob2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/labuser/Desktop/DOTNET Core/CoreSolution/Shoe/ShoeMartMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f8h99mp91z
